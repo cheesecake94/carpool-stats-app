@@ -1,0 +1,9 @@
+.period-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.period-wrapper p {
+    font-weight: 500;
+    margin: auto 16px;
+}
